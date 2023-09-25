@@ -5,8 +5,6 @@
 
 -   🌱 I’m currently learning **Python, Prismic, .NET & OutSystems**
 
--   👯 I’m looking to collaborate on [react-native-material](https://github.com/yamankatby/react-native-material)
-
 -   💬 Ask me about **React, React Native, NextJS & Express**
 
 -   📫 How to reach me **kfbfarley@outlook.com**
