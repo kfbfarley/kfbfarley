@@ -3,10 +3,6 @@
 
 -   🎓 Computer Engineering
 
--   🌱 I’m currently learning **Python, Prismic, .NET & OutSystems**
-
--   💬 Ask me about **React, React Native, NextJS & Express**
-
 -   📫 How to reach me **kfbfarley@outlook.com**
 
 -   ⚡ Fun fact **I love traveling and airplanes**
